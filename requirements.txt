@@ -1,3 +1,5 @@
+cython
+scipy
 torch
 torchvision
 timm
